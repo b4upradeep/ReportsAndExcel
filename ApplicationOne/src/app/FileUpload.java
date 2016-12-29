@@ -9,6 +9,8 @@ import javax.swing.border.EmptyBorder;
 
 import org.jfree.ui.RefineryUtilities;
 
+import app.utils.AppUtils;
+
 import javax.swing.JButton;
 import javax.swing.JFileChooser;
 
